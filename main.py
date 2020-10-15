@@ -8,4 +8,4 @@ if answer == "yes":
 else:
   print("Ok")
   
-print("The end")
+print("The end!")
